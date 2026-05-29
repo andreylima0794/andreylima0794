@@ -15,20 +15,18 @@ andreylima0794@github ~ [session: active]
 ```
 $ whoami
 ```
+
 ```
-┌────────────────────────────────────────────┐
-│  Andrey Felipe de Lima                     │
-│  Backend Developer · ADS Student           │
-│  Brazil 🇧🇷 · he/him                       │
-│  Java · Spring Boot · React · AWS          │
-│  537h+ certified                           │
-│  Cybersecurity Enthusiast                  │
-└────────────────────────────────────────────┘
+  Andrey Felipe de Lima
+  Backend Developer · ADS Student · Brazil
+  Java · Spring Boot · React · AWS
+  537h+ certified · Cybersecurity Enthusiast
 ```
 
 ```
 $ cat stack.conf
 ```
+
 ```
 [backend]    Java · Spring Boot · Node.js · REST APIs
 [frontend]   React · TypeScript · HTML · CSS · Redux
@@ -72,9 +70,9 @@ $ _
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreylima0794&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreylima0794&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&v=2"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreylima0794&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreylima0794&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&v=2"/>
 
 </div>
 
@@ -93,19 +91,19 @@ $ cat certifications.log
 ```
 
 ```
-[2026-05-27]  ✔  Node JS Curso Completo — Básico ao Avançado          10h   Udemy
-[2026-05-27]  ✔  Aprenda TypeScript em 7 Dias com Projetos Práticos    5.5h  Udemy
-[2026-01-26]  ✔  Postman: Do Zero ao Avançado + Testes Automatizados   3h    Udemy
-[2025-12-15]  ✔  Início Rápido em Teste e QA                           15h   Udemy
-[2025-10-08]  ✔  FullCycle Dev — Spring Boot + React for AWS          400h   AI Revolution Co.
-[2025-10-03]  ✔  Java COMPLETO — OOP + Projetos                        54.5h Udemy
-[2025-10-03]  ✔  20+ Projetos em React JS — Redux, Bootstrap, APIs     15.5h Udemy
-[2025-07-16]  ✔  JavaScript Basics for Beginners                        6.5h Udemy
-[2025-07-11]  ✔  Understanding HTML + CSS: Semantic + Modern CSS        18h   Udemy
-[2025-05-19]  ✔  Cyber Security Fundamentals 2025 — Part 1              5h   Udemy
-[2025-05-14]  ✔  Metodologias Ágeis — XP, Scrum, Lean e Kanban          4h   Udemy
+[2026-05-27]  ✔  Node JS Curso Completo - Basico ao Avancado           10h   Udemy
+[2026-05-27]  ✔  Aprenda TypeScript em 7 Dias com Projetos Praticos    5.5h  Udemy
+[2026-01-26]  ✔  Postman: Do Zero ao Avancado + Testes Automatizados   3h    Udemy
+[2025-12-15]  ✔  Inicio Rapido em Teste e QA                           15h   Udemy
+[2025-10-08]  ✔  FullCycle Dev - Spring Boot + React for AWS           400h  AI Revolution Co.
+[2025-10-03]  ✔  Java COMPLETO - OOP + Projetos                        54.5h Udemy
+[2025-10-03]  ✔  20+ Projetos em React JS - Redux, Bootstrap, APIs     15.5h Udemy
+[2025-07-16]  ✔  JavaScript Basics for Beginners                       6.5h  Udemy
+[2025-07-11]  ✔  Understanding HTML + CSS: Semantic + Modern CSS       18h   Udemy
+[2025-05-19]  ✔  Cyber Security Fundamentals 2025 - Part 1             5h    Udemy
+[2025-05-14]  ✔  Metodologias Ageis - XP, Scrum, Lean e Kanban         4h    Udemy
 
-                                         Total certified hours → 537h+
+                                        Total certified hours -> 537h+
 ```
 
 ---
