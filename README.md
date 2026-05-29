@@ -70,9 +70,19 @@ $ _
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreylima0794&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreylima0794&theme=tokyonight)](https://github.com/andreylima0794)
+
+<br/>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreylima0794&theme=tokyonight)](https://github.com/andreylima0794)
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreylima0794&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreylima0794&theme=tokyonight)](https://github.com/andreylima0794)
+
+<br/>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreylima0794&theme=tokyonight)](https://github.com/andreylima0794)
+&nbsp;&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andreylima0794&theme=tokyonight&utcOffset=-3)](https://github.com/andreylima0794)
 
 </div>
 
