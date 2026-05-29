@@ -70,9 +70,9 @@ $ _
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreylima0794&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&v=2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreylima0794&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreylima0794&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&v=2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreylima0794&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
 
 </div>
 
@@ -125,12 +125,19 @@ $ cat certifications.log
 ### 📧 Contact
 
 <div align="center">
+
   <a href="mailto:andreylima@alunos.utfpr.edu.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/andrey-felipe-de-lima/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
+  <br/><br/>
+
+  📩 **Email:** andreylima@alunos.utfpr.edu.br  
+  💼 **LinkedIn:** linkedin.com/in/andrey-felipe-de-lima
+
 </div>
 
 ---
