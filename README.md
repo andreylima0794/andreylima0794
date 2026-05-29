@@ -7,27 +7,34 @@
 <div align="center">
 
 ```
-██████████████████████████████████████████████████████████
-█                                                        █
-█   andreylima0794@github ~ [session: active]           █
-█                                                        █
-██████████████████████████████████████████████████████████
+ ██████████████████████████████████████████████████████████
+ █                                                        █
+ █   andreylima0794@github ~ [session: active]           █
+ █                                                        █
+ ██████████████████████████████████████████████████████████
 ```
 
 </div>
+
+---
 
 ```bash
 $ whoami
 ```
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  Andrey Felipe de Lima                                  │
-│  Backend Developer · ADS Student · Brazil 🇧🇷           │
-│  Focused on Java · Spring Boot · React · AWS            │
-│  527h+ certified · Cybersecurity Enthusiast             │
-└─────────────────────────────────────────────────────────┘
-```
+<pre>
+                                              ░░░░░░░░░░░░░░░░░░░░░░
+┌──────────────────────────────────────┐    ░░                    ░░░
+│  Andrey Felipe de Lima               │   ░░   ████      ████    ░░
+│  Backend Developer · ADS Student     │   ░░   ████      ████    ░░
+│  Brazil 🇧🇷 · he/him                 │   ░░      ░░░░░░░░      ░░
+│  Java · Spring Boot · React · AWS    │    ░░  ░░░░      ░░░░  ░░
+│  537h+ certified                     │    ░░  ░░  ░░░░░░  ░░  ░░
+│  Cybersecurity Enthusiast            │     ░░░░░░░░░░░░░░░░░░░░
+└──────────────────────────────────────┘      ░░░░░░░░░░░░░░░░░░
+                                            ░░  ░░░  ░░  ░░░  ░░
+                                             ░░░░░░░░░░░░░░░░░░
+</pre>
 
 ---
 
@@ -52,19 +59,19 @@ $ cat certifications.log
 ```
 
 ```
-[2026-05-27]  ✔  Node JS Curso Completo — Básico ao Avançado        10h   Udemy
-[2026-05-27]  ✔  Aprenda TypeScript em 7 Dias com Projetos Práticos  5.5h  Udemy
-[2026-01-26]  ✔  Postman: Do Zero ao Avançado + Testes Automatizados 3h    Udemy
-[2025-12-15]  ✔  Início Rápido em Teste e QA                         15h   Udemy
-[2025-10-08]  ✔  FullCycle Dev — Spring Boot + React for AWS        400h   AI Revolution Co.
-[2025-10-03]  ✔  Java COMPLETO — OOP + Projetos                      54.5h Udemy
-[2025-10-03]  ✔  20+ Projetos em React JS — Redux, Bootstrap, APIs   15.5h Udemy
-[2025-07-16]  ✔  JavaScript Basics for Beginners                     6.5h  Udemy
-[2025-07-11]  ✔  Understanding HTML and CSS: Semantic + Modern CSS   18h   Udemy
-[2025-05-19]  ✔  Cyber Security Fundamentals 2025 — Part 1           5h    Udemy
-[2025-05-14]  ✔  Metodologias Ágeis — XP, Scrum, Lean e Kanban       4h    Udemy
+[2026-05-27]  ✔  Node JS Curso Completo — Básico ao Avançado          10h   Udemy
+[2026-05-27]  ✔  Aprenda TypeScript em 7 Dias com Projetos Práticos    5.5h  Udemy
+[2026-01-26]  ✔  Postman: Do Zero ao Avançado + Testes Automatizados   3h    Udemy
+[2025-12-15]  ✔  Início Rápido em Teste e QA                           15h   Udemy
+[2025-10-08]  ✔  FullCycle Dev — Spring Boot + React for AWS          400h   AI Revolution Co.
+[2025-10-03]  ✔  Java COMPLETO — OOP + Projetos                        54.5h Udemy
+[2025-10-03]  ✔  20+ Projetos em React JS — Redux, Bootstrap, APIs     15.5h Udemy
+[2025-07-16]  ✔  JavaScript Basics for Beginners                        6.5h Udemy
+[2025-07-11]  ✔  Understanding HTML and CSS: Semantic + Modern CSS      18h  Udemy
+[2025-05-19]  ✔  Cyber Security Fundamentals 2025 — Part 1              5h   Udemy
+[2025-05-14]  ✔  Metodologias Ágeis — XP, Scrum, Lean e Kanban          4h   Udemy
 
-Total certified hours → 537h+
+                                         Total certified hours → 537h+
 ```
 
 ---
