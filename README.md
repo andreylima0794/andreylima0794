@@ -19,7 +19,7 @@ $ whoami
 ┌────────────────────────────────────────────┐
 │  Andrey Felipe de Lima                     │
 │  Backend Developer · ADS Student           │
-│  Brazil 🇧🇷 · he/him                       │
+│  Brazil 🇧🇷 · he/him                        │
 │  Java · Spring Boot · React · AWS          │
 │  537h+ certified                           │
 │  Cybersecurity Enthusiast                  │
