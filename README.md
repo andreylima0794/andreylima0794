@@ -1,30 +1,69 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=andreylima0794%40github+~+%5Bsession%3A+active%5D;Backend+Developer+%7C+Spring+Boot+%2B+React;AWS+%7C+Java+%7C+TypeScript+%7C+Node.js;537h%2B+certified+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=andreylima0794%40github+~+%5Bsession%3A+active%5D;Backend+Developer+%7C+Java+%2B+Spring+Boot;React+%7C+TypeScript+%7C+Node.js+%7C+AWS;537h%2B+certified+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-### $ whoami
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```
-┌──────────────────────────────────────┐
-│  Andrey Felipe de Lima               │
-│  Backend Developer · ADS Student     │
-│  Brazil 🇧🇷 · he/him                 │
-│                                      │
-│  ☕ Java + Spring Boot               │
-│  ⚛️  React + TypeScript              │
-│  ☁️  AWS · Node.js · PostgreSQL      │
-│  🔐 Cybersecurity Enthusiast         │
-│  📜 537h+ certified                  │
-└──────────────────────────────────────┘
+andreylima0794@github ~ [session: active]
 ```
 
-<br clear="right"/>
+```
+$ whoami
+```
+```
+┌──────────────────────────────────────────────┐
+│  Andrey Felipe de Lima                       │
+│  Backend Developer · ADS Student · Brazil 🇧🇷 │
+│  Java · Spring Boot · React · AWS            │
+│  537h+ certified · Cybersecurity Enthusiast  │
+└──────────────────────────────────────────────┘
+```
+
+```
+$ cat stack.conf
+```
+```
+[backend]    Java · Spring Boot · Node.js · REST APIs
+[frontend]   React · TypeScript · HTML · CSS · Redux
+[cloud]      AWS · EC2 · S3 · RDS · Elastic Beanstalk
+[database]   PostgreSQL
+[testing]    Postman · Automated Testing · QA
+[tools]      Git · GitHub · Agile · Scrum · Kanban
+[learning]   Cybersecurity · Clean Architecture
+```
+
+```
+$ _
+```
+
+</td>
+<td valign="top" width="40%">
+
+```
+      ⠀⠀⠀⢀⣤⠶⠶⣄⠀⠀⠀⠀⠀⠀
+      ⠀⠀⣠⠟⠀⠀⠀⠙⢷⡀⠀⠀⠀⠀
+      ⠀⣼⠃⠀⣠⡄⢠⡄⠀⢻⡀⠀⠀⠀
+      ⢸⡇⠀⠀▀▄▀⠀▀▄▀⠀⢸⡇⠀⠀
+      ⠀⢷⡀⠀⠀⠉⠉⠀⠀⢀⡾⠀⠀⠀
+      ⠀⠀⠙⠷⣄⣀⣀⣀⣴⠟⠁⠀⠀⠀
+      ⠀⠀⠀⠀⢀⡿⠋⢿⡀⠀⠀⠀⠀⠀
+      ⠀⠀⠀⢀⡾⠁⠀⠈⢷⠀⠀⠀⠀⠀
+      ⠀⠀⢠⠏⠀⢠⡄⠀⠘⣧⠀⠀⠀⠀
+      ⠀⠀⣿⠀⠀⣿⣿⠀⠀⣿⠀⠀⠀⠀
+      ⠀⠀⠹⣦⣀⠀⠀⣀⣴⠟⠀⠀⠀⠀
+      ⠀⠀⠀⠈⠛⠿⠿⠛⠁⠀⠀⠀⠀⠀
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -53,8 +92,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreylima0794&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreylima0794&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreylima0794&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreylima0794&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&cache_seconds=1800"/>
 
 </div>
 
@@ -68,7 +108,7 @@
 
 ### 📜 Certifications
 
-```bash
+```
 $ cat certifications.log
 ```
 
