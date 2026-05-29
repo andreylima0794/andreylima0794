@@ -6,9 +6,7 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```
 andreylima0794@github ~ [session: active]
@@ -23,7 +21,8 @@ $ whoami
 │  Backend Developer · ADS Student           │
 │  Brazil 🇧🇷 · he/him                       │
 │  Java · Spring Boot · React · AWS          │
-│  537h+ certified · Cybersecurity Enthusiast│
+│  537h+ certified                           │
+│  Cybersecurity Enthusiast                  │
 └────────────────────────────────────────────┘
 ```
 
@@ -44,28 +43,7 @@ $ cat stack.conf
 $ _
 ```
 
-</td>
-<td valign="top" width="45%" align="center">
-
-```
-     ⣴⣶⣤⡤⠦⣤⣀⣤⠆     ⣈⣭⣿⣶⣿⣦⣼⣆          
-      ⣸⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠋⠉⠈⠉⠙⠛⠛⠿⠿⣿⣿⣿⣷⣄     
-      ⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠋⠁⠀⠀⠀⠘⢿⣿⣿⣆   
-      ⠀⡏⠉⠙⢿⣿⣿⣿⣿⠿⠿⠋⠛⣿⣿⣧ ⢀⣀⠀⠀⠀⠀⠀⠀⠀ ⠸⣿⣿⣇  
-      ⠀⠀⠀⠀⠀⢻⣿⡇⠀⠀⠀⠀⠀⠀⠘⠿⣿⣿⣿⣷⠀⠀⠀⠀⠀ ⢹⣿⣿⡇  
-      ⠀⠀⠀⠀⠀⠸⣿⡇⠀⠀ ⣤⣤⣤ ⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀ ⣿⡿⠃  
-      ⠀⠀⠀⠀⠀⠀⠹⣿⣆⣀⣠⣾⣿⣿⣿⣤⣤⡄⠀⠀⠀⠀⣠⣤⣤⣴⡿⠃   
-      ⠀⠀⠀⠀⠀⠀⠀⠈⠛⠻⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠛⠋⠀     
-      ⠀⠀⣶⠀⠀⠀⣶⠀⠀⠀ ╔══════════════╗       
-      ⠀⠀⣿⣶⣶⣶⣿⠀⠀⠀ ║  < code />   ║       
-      ⠀⣸⣿⠀⠀⠀⣿⣷⠀⠀ ╚══════════════╝       
-      ⠀⣿⣿⣿⣿⣿⣿⣿⡄                         
-      ⠀⠻⠿⠿⠿⠿⠿⠟⠁                         
-```
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
