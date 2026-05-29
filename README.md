@@ -19,7 +19,7 @@ $ whoami
 ┌────────────────────────────────────────────┐
 │  Andrey Felipe de Lima                     │
 │  Backend Developer · ADS Student           │
-│  Brazil 🇧🇷 · he/him                        │
+│  Brazil 🇧🇷 · he/him                       │
 │  Java · Spring Boot · React · AWS          │
 │  537h+ certified                           │
 │  Cybersecurity Enthusiast                  │
@@ -72,15 +72,15 @@ $ _
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreylima0794&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=1800"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreylima0794&layout=compact&langs_count=7&theme=tokyonight&border_radius=10&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreylima0794&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreylima0794&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=andreylima0794&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=andreylima0794&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
