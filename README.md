@@ -146,7 +146,7 @@ $ cat certifications.log
   <br/><br/>
 
   📩 **Email:** andreylima@alunos.utfpr.edu.br  
-  💼 **LinkedIn:** linkedin.com/in/andrey-felipe-de-lima
+  💼 **LinkedIn:** https://www.linkedin.com/in/andrey-felipe-de-lima-83591a426/
 
 </div>
 
